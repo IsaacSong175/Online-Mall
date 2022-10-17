@@ -1,1 +1,1 @@
-我想再次提交咱们的项目：以后咱们获取项目源代码从git获取即可
+This project utilized Vuex, Vue Router, and Axios. This project can achieve basically all functions of an online mall, for example, displaying information of all merchants, adding merchants to the shopping cart, login in as a registered user and so on.
